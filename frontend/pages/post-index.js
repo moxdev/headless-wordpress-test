@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 import Layout from "../components/Layout.js";
 import fetch from "isomorphic-unfetch";
-import  { Config } from "../config"
+import  { Config } from "../config.js"
 
 export default class PostIndex extends Component {
 
